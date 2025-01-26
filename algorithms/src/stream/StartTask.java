@@ -6,12 +6,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 
-import static stream.Case1.aggregationData;
-import static stream.Case1.collectingDataIntoCollections;
-import static stream.Case1.filteringEmployee;
-import static stream.Case1.groupingData;
-import static stream.Case1.searchEmployee;
-import static stream.Case1.sortingEmployee;
+import static stream.Case1.*;
 
 public class StartTask {
 
